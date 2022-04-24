@@ -61,7 +61,7 @@ Console.WriteLine();
 
 
 
-//// Automašīna - 2. Uzdevums
+// Automašīna - 2. Uzdevums
 
 MyThirdHomeWorkV2.CarHomeWork3 myCar = new CarHomeWork3();
 
